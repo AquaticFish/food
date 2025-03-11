@@ -1,0 +1,16 @@
+body {
+  padding: 3em;
+  color: #d2bb98;
+  background-color: #933629
+}
+
+li {
+  display: inline;
+  color: darkviolet
+}
+
+
+.Homepage {
+  display: inline;
+  color: #933629;
+}

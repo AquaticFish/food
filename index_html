@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="En-CA">
+
+
+
+<link rel="stylesheet" href="index.css">
+
+<center>
+
+  <head>
+    <title>
+      Hello world &amp;
+    </title>
+  </head>
+  <!-- hello -->
+
+
+
+  <body bgcolor="#CCCCFF">
+
+    <h1>
+      <font color="white" size="16">
+        Random Pics
+      </font>
+    </h1>
+
+    <h2>
+      <font color="white">
+        About
+      </font>
+    </h2>
+
+    <abbr title=" What's up?">www</abbr> Sea Turtles
+
+
+    <p>
+      Green sea turtles are unique among <b> Sea turtles </b> sea turtles in <em> that </em>that they are primarily herbivores, eating mostly seagrasses and
+      algae. This diet is what gives the
+      ir cartilage and fat a greenish color (not their shells),<br> which is where
+      their
+      name comes from. They usually <b><em><u> What's up?</u></em></b>lay 100-125 eggs per nest and will nest multiple times, about two weeks apart, over
+      several months. As soon as the eggs hatch (roughly 2 months later), the hatchlings dig out of their nest. This
+      process generally takes a few days. Once they emerge, the tiny turtles hurry to the sea and make their way
+      offshore
+      into the open ocean. Sea turtles face many threats, but those that survive to become adults are decades old.
+    </p>
+
+    Sea turtles are cool &gt; jellyfish are super cool too  &lt;
+
+    <hr>
+
+
+    <br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhj5kpyGaz2xX-Jz34n-xMy5K0ednH6x5ayw&s"
+      alt="This image was a cat">
+
+    <br>
+     &copy; Somthing
+    <br>
+    <img src="Cat.jpg" width="325" alt="This was a image of a cat">
+
+  </body>
+</center>
+
+</html>
+
+</html>
